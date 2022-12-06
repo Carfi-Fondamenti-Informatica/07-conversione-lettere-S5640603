@@ -1,1 +1,1 @@
-
+bool convertLet (char);

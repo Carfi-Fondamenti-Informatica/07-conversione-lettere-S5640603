@@ -1,6 +1,6 @@
 #include "lib.h"
 
-bool conv(char &c){
+bool convert(char &c){
     if(c>=65 and c<=90){
         c=c+32;
         return true;
